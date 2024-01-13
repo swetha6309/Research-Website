@@ -546,6 +546,7 @@ ul.sponsors {
 	font: inherit;
 	vertical-align: baseline;
 	text-align: center;
+	
 }
 
 #footer h3 {
@@ -563,12 +564,15 @@ ul.sponsors {
 }
 
 #footer a img {
-	margin-top: 400px;
+	margin-top: auto;
+	margin-bottom: auto;
     /* width: 150px;
     height: auto; 
     max-width: none;
     display: block; */
 	display: inline-block; 
+	vertical-align: middle; 
+	
 }
 
 #footer p,
